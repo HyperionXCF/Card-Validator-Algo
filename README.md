@@ -1,5 +1,5 @@
-# Card-Validator-Algo
-Implementation of Luhn's Algorithm for Credit Card Validation in C++
+# Card-Validator
+Implementation of **Luhn's Algorithm** for Credit Card Validation in C++
 
 
 ## steps 
