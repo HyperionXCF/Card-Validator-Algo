@@ -13,5 +13,4 @@ Implementation of **Luhn's Algorithm** for Credit Card Validation in C++
 
 ## Learn More
 
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-Article-000000?logo=wikipedia)](https://en.wikipedia.org)
-[![Stripe](https://img.shields.io/badge/Read_on-Stripe-008CDD?logo=stripe)](https://stripe.com/docs)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-Article-000000?logo=wikipedia)](https://en.wikipedia.org/wiki/Luhn_algorithm)
