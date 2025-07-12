@@ -1,8 +1,7 @@
 # Card & IMEI Validator
 Implementation of **Luhn's Algorithm** for Credit Card Validation in C++
 
-## Luhn's Algorithm / mod 10 algorithm 
-
+# Luhn's Algorithm / mod 10 algorithm 
 
 ## Steps 
 1. double every second digit from right to left, if double number is 2 digits, split them 
@@ -14,5 +13,5 @@ Implementation of **Luhn's Algorithm** for Credit Card Validation in C++
 ## Learn More
 
 <a href="https://en.wikipedia.org/wiki/Luhn_algorithm">
-  <img src="https://img.shields.io/badge/Wikipedia-Article-000000?logo=wikipedia" style="height:40px; border-radius:8px;">
+  <img src="https://img.shields.io/badge/Wikipedia-Article-000000?logo=wikipedia" style="height:30px; border-radius:8px;">
 </a>
